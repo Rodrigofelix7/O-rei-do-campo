@@ -1,0 +1,48 @@
+body{
+    background-color: white;
+    background-image: url(https://wallpapers.com/images/hd/number-10-ronaldinho-1l6odesm6ov49o6o.jpg);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+
+}
+a{
+    color: yellow;
+    text-decoration: none;
+}   
+
+img {
+    width: 150px;
+    height: 150x;
+    border-radius: 50%;
+    border: 5px solid black;
+}
+.center{
+    text-align: center; 
+}
+footer {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.instagram{
+    margin: 10px;
+    width: 9vh;
+    height: 9vh;
+    border: none;
+    border-radius: 9px;
+}
+.youtube{
+    margin: 10px;
+    width: 9vh;
+    height: 9vh;
+    border: none;
+    border-radius: 9px;
+}
+
